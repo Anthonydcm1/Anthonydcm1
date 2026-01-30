@@ -1,11 +1,10 @@
-<h1 align="center">Hi , I'm Ahmed Hossam <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi , I'm Anthony Mendoza <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 
 <h3 align="center">Front-End Developer · Full‑Stack Developer</h3>
 
 <p align="center">
-  Construo interfaces rápidas, limpas e funcionais.  
-  Transformo ideias em produtos digitais eficientes e escaláveis
+  I build fast, clean, and functional interfaces. I turn ideas into efficient and scalable digital products.
 </p>
 
 ---
