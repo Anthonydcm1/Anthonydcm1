@@ -1,7 +1,7 @@
 <h1 align="center">Hi , I'm Anthony Mendoza <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+I'm+Front-end+Developer!;I'm+back-end+developer;And+I'm+Full-Stack+Developer)](https://git.io/typing-svg) width="35"
+[![Typing SVG width="35"](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+I'm+Front-end+Developer!;I'm+back-end+developer;And+I'm+Full-Stack+Developer)](https://git.io/typing-svg)
 
 <!-- <h3 align="center">Front-End Developer · Full‑Stack Developer</h3> -->
 
