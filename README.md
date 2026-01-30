@@ -1,5 +1,5 @@
 
- ##                  Olá, eu sou Anthony Mendoza 👋
+  ## Olá, eu sou Anthony Mendoza 👋
 
 
 <h3 align="center">Front-End Developer · Full‑Stack Developer</h3>
