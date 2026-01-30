@@ -9,7 +9,7 @@
 
 ---
 
-## 🛠️ Línguas e Ferramentas
+## 🛠️ Languages and Tools
 
 <p align="left">
   
@@ -57,7 +57,8 @@
 
 ---
 
-## 📫 Conecta-te comigo
+## 📫 Connect with me
+
 <p align="left">
   <a href="mailto:anthonydcm1@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -69,19 +70,18 @@
 
 ---
 
-## 🧩 Sobre mim.
+## 🧩 About me
 
-Sou um desenvolvedor focado em criar experiências digitais simples, intuitivas e de alta performance.  
-Trabalho tanto no **Front‑End**, onde valorizo design funcional e código limpo, como no **Back‑End**, garantindo arquitetura sólida e escalável.
+I am a developer focused on creating simple, intuitive, and high-performance digital experiences. I work both on the **Front-End**, where I value functional design and clean code, and on the **Back-End**, ensuring solid and scalable architecture.
 
-Gosto de resolver problemas complexos com soluções elegantes e colaborar em projetos que exigem atenção ao detalhe e pensamento crítico.
+I enjoy solving complex problems with elegant solutions and collaborating on projects that require attention to detail and critical thinking.
 
 ---
 
-## 🚀 O Que Faço.
+## 🚀 What Do I Do
 
-- Desenvolvimento Front‑End moderno  
-- Aplicações Web completas (Full‑Stack)  
-- Integração de APIs  
-- Arquitetura e organização de código  
-- Otimização de performance e acessibilidade  
+- Modern Front-End Development
+- Full-Stack Web Applications
+- API Integration
+- Code Architecture and Organization
+- Performance and Accessibility Optimization
